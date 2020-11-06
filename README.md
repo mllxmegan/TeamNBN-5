@@ -7,4 +7,5 @@ Anissa Fabre  https://github.com/keithvald
 Wendy Vanbelle https://github.com/Lunalya
 Maxime Bucho-Sastre https://github.com/MaxouDEV
 Corentin Bousquet https://github.com/Cocoob
-https://github.com/laiila11
+Laila Marchoud https://github.com/laiila11
+Megan Barcelona https://github.com/mllxmegan
