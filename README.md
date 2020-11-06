@@ -5,8 +5,6 @@
 
 Anissa Fabre  https://github.com/keithvald
 
--------------------------------------------
-
 Wendy Vanbelle https://github.com/Lunalya
 
 Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
@@ -14,6 +12,8 @@ Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
 Corentin Bousquet https://github.com/Cocoob
 
 https://github.com/laiila11
+
+Clarisse HURION https://github.com/Lyrna
 
 Corentin Bousquet https://github.com/
 
