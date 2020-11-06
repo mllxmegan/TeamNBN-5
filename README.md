@@ -5,3 +5,4 @@
 
 Anissa Fabre  https://github.com/keithvald
 Wendy Vanbelle https://github.com/Lunalya
+Maxime Bucho-Sastre https://github.com/MaxouDEV
