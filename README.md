@@ -5,8 +5,6 @@
 
 Anissa Fabre  https://github.com/keithvald
 
------------------------------------------------------
-
 Wendy Vanbelle https://github.com/Lunalya
 
 Maxime Bucho-Sastre https://github.com/MaxouDEV - 0781320274
@@ -27,5 +25,6 @@ Aymeric Herchuelz https://github.com/aymeric19
 
 Emilie VERDIER https://github.com/EmilieVrd
 
+Megan Barcelona https://github.com/mllxmegan
 
 -----------------------------------
