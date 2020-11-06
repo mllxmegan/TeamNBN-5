@@ -18,3 +18,5 @@ Corentin Bousquet https://github.com/
 Laila Marchoud https://github.com/laiila11
 
 Benjamin Murat https://github.com/H4nk17
+
+Aymeric Herchuelz https://github.com/aymeric19
